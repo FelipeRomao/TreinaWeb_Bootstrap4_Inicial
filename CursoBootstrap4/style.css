@@ -1,0 +1,27 @@
+		.text-centered {
+    		text-align: center;
+    	}
+    	body {
+    		background-image: url(assets/img/fundo-2.jpg);
+    	}
+		li {
+			float: left; 
+		    margin-left: 100px;
+		    font-size: 17px;	     
+		}
+		a {
+			color: black;
+		}
+		button {
+			--box-shadow: 1px 1px 1px 1px black;
+		}
+		.editar-link {
+			margin-right: 100px; 
+		}
+		p {
+			text-align: center;
+		}
+		.text-paragrafo{
+			margin-right: 100px;
+			text-align: left;
+		}
